@@ -1,2 +1,0 @@
-[0525/192638.319:ERROR:http_transport_win.cc(214)] WinHttpSendRequest: 操作超时  (0x2ee2)
-[0526/191439.946:ERROR:http_transport_win.cc(214)] WinHttpSendRequest: 操作超时  (0x2ee2)
