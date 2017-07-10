@@ -59,11 +59,11 @@
 
 <script>
 	import BScroll from 'better-scroll'
-	import Star from '../star/star'
-	import Split from '../split/split'
-	import RatingSelect from '../rating_select/ratingselect'
+	import Star from 'components/star/star'
+	import Split from 'components/split/split'
+	import RatingSelect from 'components/rating_select/ratingselect'
 
-	import {formatDate} from '../../common/js/date.js'
+	import {formatDate} from 'common/js/date.js'
 
 	const ERR_OK = 0
 	const POSITIVE = 0

@@ -7,7 +7,7 @@ import VueResource from 'vue-resource'
 
 import 'bootstrap/dist/css/bootstrap.css'
 import 'jQuery/tmp/jquery.js'
-import './common/iconStyle.css'
+import 'common/iconStyle.css'
 
 Vue.use(VueResource)
 

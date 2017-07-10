@@ -77,7 +77,7 @@
 </template>
 
 <script>
-  import Star from '../star/star'
+  import Star from 'components/star/star'
 
 	export default {
 		data () {
@@ -108,7 +108,7 @@
 </script>
 
 <style scoped>
-  @import url('../../common/iconStyle.css');
+  @import url('/common/iconStyle.css');
 
 	.header {
 		position: relative;

@@ -55,7 +55,7 @@
 </template>
 
 <script>
-	import CartControl from '../cart_control/cartcontrol'
+	import CartControl from 'components/cart_control/cartcontrol'
 	import BScroll from 'better-scroll'
 
 	export default {

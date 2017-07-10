@@ -72,11 +72,11 @@
 <script>
 
 	import BScroll from 'better-scroll'
-	import Star from '../star/star'
-	import Split from '../split/split'
-	import Support from '../support/support'
+	import Star from 'components/star/star'
+	import Split from 'components/split/split'
+	import Support from 'components/support/support'
 
-	import {saveToLocal, loadFromLocal} from '../../common/js/store.js'
+	import {saveToLocal, loadFromLocal} from 'common/js/store.js'
 
 	export default {
 		data () {

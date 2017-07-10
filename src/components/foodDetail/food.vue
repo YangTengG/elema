@@ -69,10 +69,10 @@
 <script>
 	import Vue from 'vue'
 	import BScroll from 'better-scroll'
-	import CartControl from '../cart_control/cartcontrol'
-	import Split from '../split/split'
-	import RatingSelect from '../rating_select/ratingselect'
-	import {formatDate} from '../../common/js/date.js'
+	import CartControl from 'components/cart_control/cartcontrol'
+	import Split from 'components/split/split'
+	import RatingSelect from 'components/rating_select/ratingselect'
+	import {formatDate} from 'common/js/date.js'
 
 	const POSITIVE = 0
 	const NEGATIVE = 1

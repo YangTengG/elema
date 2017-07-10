@@ -61,12 +61,12 @@
 </template>
 
 <script>
-	import Support from '../support/support'
 	import BScroll from 'better-scroll'
 
-	import ShoppingCart from '../shopping_cart/shoppingCart'
-	import CartControl from '../cart_control/cartcontrol'
-	import FoodDetail from '../foodDetail/food'
+	import Support from 'components/support/support'
+	import ShoppingCart from 'components/shopping_cart/shoppingCart'
+	import CartControl from 'components/cart_control/cartcontrol'
+	import FoodDetail from 'components/foodDetail/food'
 
 	const ERR_OK = 0
 

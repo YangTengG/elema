@@ -13,8 +13,8 @@
 </template>
 
 <script>
-  import header from './components/header/header.vue'
-  import {urlParse} from './common/js/util.js'
+  import header from 'components/header/header.vue'
+  import {urlParse} from 'common/js/util.js'
 
   const ERR_OK = 0
   
